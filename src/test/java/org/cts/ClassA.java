@@ -17,7 +17,17 @@ public class ClassA {
 		System.out.println("3");
 	}
 	
-  
-  
+    private void uk() {
+	// TODO Auto-generated method stub
+	 System.out.println("uk");
+	 }
+    private void usa() {
+    	// TODO Auto-generated method stub
+    	 System.out.println("usa");
+    	 }
+    private void australia() {
+    	// TODO Auto-generated method stub
+    	 System.out.println("australia");
+    	 }
 
 }
